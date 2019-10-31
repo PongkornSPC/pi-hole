@@ -5,3 +5,5 @@ passwd
 #newpass
 sudo apt-get update
 sudo apt-get upgrade
+curl -sSL https://install.pi-hole.net | bash
+sudo pihole -a -p
