@@ -11905,3 +11905,5 @@ r6---sn-vgqskn7z.googlevideo.com
 r6.sn-vgqskn7z.googlevideo.com
 r18---sn-o097znes.googlevideo.com
 r4---sn-n4v7sn7s.googlevideo.com
+r3---sn-nco-c33y.googlevideo.com
+r6---sn-5fo-c33z.googlevideo.com
